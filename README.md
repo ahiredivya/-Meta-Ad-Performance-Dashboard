@@ -18,3 +18,6 @@ A Power BI dashboard analyzing Meta (Facebook & Instagram) ad campaigns to evalu
 
 💡 Outcome:
 This dashboard provides a clear understanding of ad performance across multiple dimensions and helps optimize budget allocation, targeting strategy, and creative formats.
+
+
+https://github.com/ahiredivya/-Meta-Ad-Performance-Dashboard/blob/main/Meta%20Dashboard.png
